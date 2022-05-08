@@ -1,0 +1,31 @@
+.btn {
+    display: block;
+    margin: 15px;
+    background-color: rgb(9, 216, 231);
+    
+}
+.container {
+    padding-left: 50px;
+    padding-top: 70px;
+}
+.btn-block{
+    padding-top: 30px;
+}
+
+button{
+    width: 150px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+.btn-click {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background-color: rgb(14, 241, 147);
+}
+
+.pleyer{
+    font-size: 25px;
+    color: blue;
+}
