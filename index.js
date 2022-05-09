@@ -25,8 +25,6 @@ function addPlayerName(evt) {
   } else {
     refs.start.setAttribute('disabled', 'disablet')
   }
-  player.push(evt.target.value);
-  return player
 };
 
 function onCurrent() {
